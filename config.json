@@ -1,0 +1,20 @@
+}
+    "NOTE": "To use replace the first GUILDID1 with the id of the guild u want to bump then in CHANNELID FOR GUILDID1 put the channel id wheare u want the command to be ran (the channelid obv must be from the guild)",
+    "IMPORTANT": "4 is the max bc of the 30 min coldown (2h for the same guild 30min for diffrent guild)",
+    "GUILDID EXAMPLE": "1157405821450338334",
+    "CHANNELID EXAMPLE": "1197292049167290410",
+    "GuildIDS": [
+        "GUILDID1",
+        "GUILDID2",
+        "GUILDID3",
+        "GUILDID4"
+    ],
+    "ChannelIDS": [
+        "CHANNELID FOR GUILDID1",
+        "CHANNELID FOR GUILDID2",        
+        "CHANNELID FOR GUILDID3",
+        "CHANNELID FOR GUILDID4"
+    ],
+    "Token": "Put the token of your account here so it can send the bump command",
+    "Hide": False
+}
